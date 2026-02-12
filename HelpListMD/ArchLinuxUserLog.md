@@ -85,3 +85,13 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 ```
 
 重新登录账户，打开终端，启动成功。
+
+### 2.4 系统显示中文异常
+
+```zsh
+sudo nano /etc/locale.gen
+# 去掉 zh_CN.UTF-8 UTF-8 前面的 #
+sudo locale-gen
+sudo nano /etc/locale.conf
+# 写入一行 `LC_TIME=zh_CN.UTF-8`
+```
