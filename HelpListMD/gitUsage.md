@@ -9,6 +9,7 @@
 ### 1.1 基础配置
 
 ```bash
+sudo pacman -S git less
 # 设置全局用户名和邮箱
 git config --global user.name "YourName"
 git config --global user.email "your@email.com"
