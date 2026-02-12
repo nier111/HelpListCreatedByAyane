@@ -66,3 +66,22 @@ fc-cache -fv
 reboot
 ```
 
+### 2.3 添加终端中的**提示词联想**和部分代码**高亮**
+
+```bash
+sudo pacman -S zsh 
+chsh -s /bin/zsh
+sudo pacman -S zsh-autosuggestions zsh-syntax-highlighting
+```
+
+编辑 `~/.zshrc` 文件，使启动终端时加载上面两个辅助插件
+
+```text
+autoload -Uz compinit
+compinit
+
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+```
+
+重新登录账户，打开终端，启动成功。
