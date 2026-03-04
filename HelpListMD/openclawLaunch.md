@@ -51,6 +51,7 @@ curl "https://api.telegram.org/bot<你的BotToken>/deleteWebhook?drop_pending_up
 
 2. 修改配置为白名单模式（跳过配对）：
 ```json
+# 配置文件路径 ： ~/.openclaw/openclaw.json
 {
   "channels": {
     "telegram": {
@@ -77,7 +78,7 @@ curl "https://api.telegram.org/bot<你的BotToken>/deleteWebhook?drop_pending_up
 
 **原因**：URL 中的 token 和配置不匹配
 
-**解决**：直接访问 `https://localhost:18789`，会自动跳转到正确地址
+**解决**：执行 `pnpm openclaw dashboard --no-open` 后，复制链接中的 token 到配置中。
 
 ---
 
@@ -91,7 +92,8 @@ curl "https://api.telegram.org/bot<你的BotToken>/deleteWebhook?drop_pending_up
 | `pnpm openclaw pairing list` | 查看待批准的配对请求 |
 | `pnpm openclaw pairing approve <CODE>` | 批准配对码 |
 | `Ctrl + C` | 中断当前进程 |
-
+| `pnpm openclaw dashboard --no-open` | 返回包含token的访问控制台链接 |
+| `pnpm openclaw gateway` | 开启gateway服务（启动openclaw） |
 ---
 
 ## 八、安全建议

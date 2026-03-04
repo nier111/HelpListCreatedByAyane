@@ -95,3 +95,30 @@ sudo locale-gen
 sudo nano /etc/locale.conf
 # 写入一行 `LC_TIME=zh_CN.UTF-8`
 ```
+
+### 2.5 two-line prompt
+
+Show the Username and workplace in two lines.
+The command input-line is the third line.
+
+```bash
+vim ~/.zshrc
+
+```
+edit the file ,add the follow commands
+```text
+PROMPT='%F{cyan}%~%f
+%F{yellow}%n@%m%f
+%# '
+```
+- %F{color} is to change the color and mark the beginning place
+- %f is to end the color
+- %n is the username
+- %m is the hostname
+- %~ is the workplace
+- %# show `#` when the user is root and show `%` when the user is common
+- 
+then resource
+```bash
+source ~/.zshrc
+```
