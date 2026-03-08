@@ -122,3 +122,49 @@ then resource
 ```bash
 source ~/.zshrc
 ```
+
+### 2.6 Nvidia GPU Driver install
+
+First of all , check the status of GPU driver
+
+```bash
+lspci | grep -E "VGA|3D"
+# the VGA represent Intel GPU
+# the 3D represent Nvidia GPU
+```
+
+Second ,check out which one is in use
+
+```bash
+glxinfo | grep "OpenGL"
+```
+
+Third , install `nvidia-utils`
+```bash
+sudo pacman -S nvidia-utils
+nvidia-smi
+# sometimes it outputs some warnings like "can not communicate with Nvidia Driver"
+```
+
+### 2.7 wifi configure GUI
+
+cancel the "#" in the file `/etc/locale.gen` then execute `sudo locale.gen`
+
+```bash
+sudo pacman -S waybar network-manager-applet nm-connection-editor
+nm-applet
+```
+then add `nm-applet` to the `hyprland.conf`
+
+### 2.8 Chinese Input
+
+```bash
+sudo pacman -S fcitx5 fcitx5-gtk fcitx5-qt fcitx5-configtool fcitx5-rime
+# start fcitx5
+fcitx5 
+# add Input Method rime
+fcitx5-configtool
+# use `Ctrl + Space` to switch Input Language
+# use `Ctrl + `` to switch complex Chinese into simple Chinese
+```
+

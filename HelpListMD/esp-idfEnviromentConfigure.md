@@ -14,5 +14,13 @@
 
 安装必要插件：
 ```bash
-sudo pacman -S git wget flex bison gperf python python-pip cmake ninja dfu-util picocom
+sudo pacman -S git wget flex bison gperf python python-pip cmake ninja dfu-util picocom base-devel python-virt-idualenv
+
+mkdir ~/tools/esp
+cd ~/tools/esp
+git clone https://github.com/espressif/esp-idf.git
+cd esp-idf
+./install.sh
+source ./export.sh
+# if there is no mistakes and warinings,the installation is OK.
 ```
