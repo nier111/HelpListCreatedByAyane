@@ -166,5 +166,7 @@ fcitx5
 fcitx5-configtool
 # use `Ctrl + Space` to switch Input Language
 # use `Ctrl + `` to switch complex Chinese into simple Chinese
+sudo pacman -S noto-fonts-cjk
+# 如果 vscode 无法正常显示中文，按空格确认字符会出现三个<FFFFFFFF>字符，运行上面这条指令。
 ```
 
