@@ -170,3 +170,32 @@ sudo pacman -S noto-fonts-cjk
 # 如果 vscode 无法正常显示中文，按空格确认字符会出现三个<FFFFFFFF>字符，运行上面这条指令。
 ```
 
+### 2.9 添加音频驱动软件
+
+```bash
+lspci | grep -i audio
+# 查看设备是否识别到声卡。
+
+yay -S yesplaymusic
+# 可以使用网易云登录的音乐播放UI界面，可以在 `drun` 的软件列表中发现。
+
+sudo pacman -S pipewire pipewire-alsa pipewire-pulse pipewire-pulse pipewire-jack wireplumber
+# pipewire 控制音乐播放
+
+systemctl --user enable pipewire
+systemctl --user enable wireplumber
+# 设置开机自启动服务
+
+sudo pacman -S pavucontrol
+# 音量控制
+
+pavucontrol
+# 打开音量控制UI界面
+
+sudo pacman -S sof-firmware
+# 针对我的声卡设备 `Tiger Lake_LP` 需要额外添加的控制程序
+
+sudo reboot
+# 重启加载驱动软件
+```
+
