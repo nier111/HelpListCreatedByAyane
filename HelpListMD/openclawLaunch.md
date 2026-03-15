@@ -56,7 +56,7 @@ curl "https://api.telegram.org/bot<你的BotToken>/deleteWebhook?drop_pending_up
   "channels": {
     "telegram": {
       "dmPolicy": "allowlist",      // ← 改为 allowlist
-      "allowFrom": [7780218895]     // ← 填入你的 User ID
+      "allowFrom": [user id]     // ← 填入你的 User ID
     }
   }
 }
@@ -125,7 +125,7 @@ curl "https://api.telegram.org/bot<你的BotToken>/deleteWebhook?drop_pending_up
       "botToken": "123456789:ABCDEF...",
       "proxy": "http://172.17.32.1:7890",
       "dmPolicy": "allowlist",
-      "allowFrom": [7780218895],
+      "allowFrom": [your telegram id],
       "groupPolicy": "allowlist",
       "streamMode": "partial"
     }
