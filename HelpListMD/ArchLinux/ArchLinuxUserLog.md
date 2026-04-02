@@ -52,6 +52,9 @@ systemctl enable sddm
 # 安装vmware 需要的工具
 pacman -S open-vm-tools
 systemctl enable vmtoolsd
+# 更改当前用户的shell
+
+
 # 安装终端(图像化页面中使用 Ctrl + Alt + T 来调出终端)
 pacman -S konsole
 # 重启
