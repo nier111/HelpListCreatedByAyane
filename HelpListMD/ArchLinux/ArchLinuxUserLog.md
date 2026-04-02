@@ -181,7 +181,7 @@ yay -S yesplaymusic
 
 sudo pacman -S pipewire pipewire-alsa pipewire-pulse pipewire-pulse pipewire-jack wireplumber
 # pipewire 控制音乐播放
-
+ 
 systemctl --user enable pipewire
 systemctl --user enable wireplumber
 # 设置开机自启动服务
@@ -197,5 +197,22 @@ sudo pacman -S sof-firmware
 
 sudo reboot
 # 重启加载驱动软件
+```
+
+### 2.10 壁纸加载程序 awww ( hyprpaper 更新速度跟不上 hyprland ,导致协议不兼容)
+
+可恶，2026.3.24 把 swww 更新成了 awww，怪不得之前的壁纸加载程序挂了。
+
+在 `~/.config/hypr/hyprland.conf` 文件中添加两行配置语句
+
+```bash
+excu-once awww-daemon &
+excu-once awww img -o  “monitor name” "你的壁纸路径.jpg"
+```
+
+如果不知道显示器名称就执行下面的指令：
+
+```bash
+hyprctl monitor
 ```
 
