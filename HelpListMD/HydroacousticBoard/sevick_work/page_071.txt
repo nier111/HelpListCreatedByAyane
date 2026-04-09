@@ -1,0 +1,22 @@
+Fig 6-2—Two versions of the Guanella 1:4 unun: (A) a 1:1 balun
+back-to-back with a 1:4 balun, (B) windings on two separate cores
+(bottom winding only acting as a delay line).
+
+low-frequency response. The major requirement here is that the reac-
+tance of a single winding be much greater than the low-impedance side
+of the transformer. If the reactances of windings 5-6 and 7-8 in Fig 6-2B
+have the same values as those of the Ruthroff unun in windings 1-2 and
+3-4 in Fig 6-1A, then the two transformers will have the same low-
+frequency responses. Since Guanella’s transformer in Fig 6-2B adds
+in-phase voltages (windings 1-2 and 3-4 acting only as a delay line), its
+high-frequency response will be considerably higher than Ruthroff’s of
+Fig 6-1A.
+
+Even though the Guanella ununs are more complicated than that
+of the single transmission line approach of Ruthroff’s, measurements
+made on these transformers, using the simple test equipment in Chapter
+12, show much less phase shift at the higher frequencies, and hence
+greater high-frequency response. They also lend themselves more
+readily to hybrid use.
+
+6-4 Chapter 6

@@ -27,7 +27,9 @@
     "styles": [{}, {}, {}],
     // `images` supports online and local images, as well as folders.
     "images": [
-      "\\home\\sato\\Picture\\ayaneWithWhiteDress.jpg"
+      // "D:\\pictures\\DoQo-T1VsAEFB9V.jpg"
+      // "D:\\pictures\\E_Uu7vtUUAU17qr.jpg"
+      "D:\\pictures\\FeR93ZVaEAkevH2.jpg"
       // online images, only `https` is allowed.
       //"https://hostname/online.jpg",
       // local images

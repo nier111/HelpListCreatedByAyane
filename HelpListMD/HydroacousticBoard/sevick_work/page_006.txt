@@ -1,0 +1,40 @@
+Foreword to the 4th Edition
+
+Jerry Sevick’s contributions to our collective knowledge of trans-
+mission line transformers cannot be measured. His work is the finest
+example I know of solid theory combined with extensive experimental
+verification and development of practical circuits.
+
+Four years ago, Jerry took the time to get involved in “real-world”
+engineering one more time. He held consulting jobs and was a highly
+sought-after speaker. Partly in preparation for those activities and part-
+ly as a result of them, he wrote several papers and a monograph intend-
+ed as a short book on this subject. Although much of this work was a
+review of concepts already contained in earlier editions, Jerry had gath-
+ered enough new information and observations to add two new chapters
+to Transmission Line Transformers.
+
+A recurring topic in my conversations with Jerry during his time of
+renewed activity was the lack of understanding of how transmission line
+transformers work. Many people, Jerry observed, did not look deeply
+enough into the subject to clearly grasp the differences between con-
+ventional and transmission line transformer operation. Understanding
+this difference, however, is essential for understanding the additional
+chapter on equal-delay transformers I have written for this 4th edition.
+It is not possible to understand the series-parallel combinations of trans-
+mission lines in this family of transformers without taking the time to
+learn and appreciate the theoretical part of Jerry’s work.
+
+The new chapter shows how the work of Ruthroff and Guanella has
+been expanded to achieve a wider range of transformation ratios in both
+balun or unun configurations. This topic, not commonly known when
+Jerry wrote the earlier editions of this book, is now included as a logi-
+cal extension of the concepts he presented earlier.
+
+There was no need to change any part of the previous edition; this
+new material and Jerry’s additional contributions follow an unchanged
+reprint of the third edition.
+
+Gary A. Breed, KDAY
+President
+Noble Publishing Corporation

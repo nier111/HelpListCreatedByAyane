@@ -1,0 +1,32 @@
+INICKEL~ZINC
+FERRITES
+
+3
+S
+E
+2
+2
+2
+é
+i
+z
+
+FREQUENCY (Hz)
+
+Fig 3-13—Typical frequency responses of nickel-zinc and
+manganese-zinc ferrites.
+
+Sec 3.5 Ferrites and Frequency Response
+
+The previous section demonstrated that the core still performs a
+major role at the high-frequency end of a transmission line transformer.
+The question frequently asked is how can a ferrite material, like Q1,
+4C4 or no. 61, designed for operation up to 10 or 20 MHz still produce
+a flat response beyond 100 MHz? The answer lies in Fig 3-13, which
+shows that the typical response of most ferrites approaches the same
+permeability value at the high-frequency end. Since the reactance of a
+coiled (or beaded) transmission line is proportional to the product of the
+frequency and permeability (Eqs 2-1 and 2-4) and the slope beyond the
+knee of the curves in Fig 3-13 shows a near-constant product of perme-
+
+3-14 Chapter 3

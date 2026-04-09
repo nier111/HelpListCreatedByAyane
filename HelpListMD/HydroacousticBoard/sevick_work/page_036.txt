@@ -1,0 +1,27 @@
+Fig 3-3—Examples of tightly wound 1:4 transformers using no. 14 wire:
+bottom left, 5 bifilar turns on a no. 64 toroid with a 2.4-inch OD; top left,
+5 bifilar turns on a 5¢-inch diameter Q1 rod; top right, 15 bifilar turns on
+a 4e-inch diameter no. 61 rod; and bottom right, a Guanella balun with
+121% bifilar turns on each 36-inch diameter no. 61 rod (the other three
+transformers are Ruthroff ununs).
+
+level instead of the expected level of 12.5:50-Q. Even then, the exper-
+imental value for the high-frequency response was about 70 percent of
+the theoretical value. In order to understand where the discrepancy in
+impedance level (nearly a factor of 2) came from, another experiment
+was undertaken. The characteristic impedance was measured on no. 14
+wire, wound very tightly on a toroid before it was connected as an unun.
+Fig 3-3 shows the toroidal transformer with several other tightly wound
+rod transformers. Surprisingly, the characteristic impedance was 34 Q
+(9 Q more than expected) and the best high-frequency response oc-
+curred at the 17.5:70-Q level, which is close to the theoretical value.
+Using other wire diameters again proved the same finding; namely, the
+characteristic impedances were all considerably higher on toroids than
+on rods. In fact, some earlier toroidal transformers, with tight windings,
+were measured and found to have characteristic impedances as high as
+41 Q. Thus there is little doubt that the transformer used in Fig 3-2 had
+a characteristic impedance in excess of 40 Q. The reason for the
+increased value of Zo for toroidal transformers is two-fold: first, it is
+more difficult to get as tight a winding on a toroid as on a rod, and
+
+3-4 Chapter 3

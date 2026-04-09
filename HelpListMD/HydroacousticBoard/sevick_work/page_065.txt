@@ -1,0 +1,45 @@
+Table 5-1
+
+Po/Pavailable aS a Function of Line Length (BI/27) and the Ratio of
+Load to Source Resistance (RL/Rg)
+
+— Ri/Rg = _
+10 20 30 40 50 60 90 16.0 25.0 «
+Bl/2n
+0.000 0.640 0.889 0.980 1.000 0.988 0.960 0.852 0.640 0.476 0.000
+0.134 0.609 0.847 0.949 0.990 1.000 0.993 0.934 0.768 0.610 0.000
+0.167 0.590 0.818 0.923 0.973 0.994 1.000 0.973 0.852 0.714 0.000
+0.204 0.559 0.768 0.871 0.928 0.962 0.982 1.000 0.964 0.888 0.000
+0.227 0.532 0.723 0.820 0.876 0.914 0.939 0.979 1.000 0.988 0.000
+0.236 0.520 0.703 0.795 0.850 0.887 0.912 0.956 0.992 1.000 0.000
+0.250 0.500 0.667 0.750 0.800 0.833 0.857 0.900 0.941 0.962 1.000
+0.333 0.308 0.333 0.324 0.308 0.290 0.273 0.229 0.165 0.121 0.000
+0.500 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+
+Sec 5.3 Long Transmission Lines
+
+Blocker presented an analysis which predicted a good match over
+a broad frequency band for a wide range of impedance levels (ref 21).!
+His analysis was only applicable for impedance ratios equal to or greater
+than 4:1 and is as follows:
+
+By using Ruthroff’s equations for output power, available power
+and characteristic impedance for maximum high-frequency response,
+he arrived at:
+
+Pout = 4(Rg / Ri)(1 + cos Bl)?
+
+Payaitable = [2(Rg / Ri)(1 + cos Bl) + 1]? — sin? Bl (Eq 5-2)
+A perfect match, Pout = Pavailable. Occurs in Eq 5-2 whenever the
+
+electrical length of the line Bl and the ratio Ry / Rg are related by:
+
+sec Bl = Ry /2R,-1 (Eq 5-3)
+
+This condition can be satisfied for any arbitrary value of Ry / Rg
+that is equal to or greater than 4, At a given frequency, the higher
+transformation ratios require longer lines for a perfect match. Table 5-1
+
+{Each reference in this chapter can be found in Chapter 15.
+
+5-6 Chapter5

@@ -1,0 +1,46 @@
+2 IN. POWDEREO-IRON,
+CARBONYL E TOROID
+
+2.4 IN. FERRITE TOROID
+Q1
+
+IN. FERRITE ROD,
+
+TRANSDUCER LOSS (dB)
+iy
+a
+
+uw
+T
+
+4
+Qt
+
+Oo 40
+FREQUENCY (MHz)
+
+Fig 2-5—Experimental results showing the low-frequency performance
+of the rod transformer versus the toroidal transformer.
+
+The primary inductances, measured at 1 MHz from the low-
+impedance side of the transformer with the output open-circuited, were
+as follows:
+
+QI toroid L= 11.08 pH
+QI rod L= 4.67 pH
+Powdered-iron toroid L= 1.67 pH
+
+The experimental results on the loss of these three transformers
+are shown in Fig 2-5. Several important conclusions can be drawn from
+these results. They are:
+
+1) The powdered-iron toroid, popular in the Amateur Radio
+fraternity, is much poorer than the other two. It is not recommended
+because of its very low permeability.
+
+2) The rod was considerably better than the powdered-iron toroid,
+and differed from the QI toroid only by a factor of about 2. This
+confirmed the theory of low-frequency response based on the primary
+inductance measurements. Higher-permeability toroids would give con-
+
+2-8 Chapter 2

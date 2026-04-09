@@ -1,0 +1,46 @@
+4:1 TRANSFORMER
+
+N=5 BIFILAR TURNS, NO. 14
+WIRE CLOSE WOUND, Q1
+TOROID
+
+50:12.59
+o 75:18.75 2
+00:25 2
+
+TRANSDUCER LOSS (d8)
+°
+@
+T
+
+1
+10 10
+FREQUENCY (MHZ)
+
+Ot
+
+Fig 3-2—Insertion loss v frequency for a tightly wound 4:1 transformer
+as a function of impedance levels.
+
+tic mean of the input and output resistances. That is, Zp should be twice
+the value of Rg and one-half the value of R,. Since a need existed for
+matching the impedance of resonant, short, ground-mounted verticals
+of about 12 Q to a 50-Q coaxial cable, different types of windings using
+Formex wire were investigated in order to obtain the optimum charac-
+teristic impedance of 25 Q. These early experiments showed that tight
+windings, as shown in the 1:4 transformers in Fig 2-4, exhibited lower
+characteristic impedances than twisted pairs. They were also more
+convenient to use.
+
+Fig 3-1 shows the experimental results of the characteristic im-
+pedance of tightly wound, bifilar windings on %-inch diameter rods v
+wire size. From these data, it appeared that tightly wound no. 14 wire
+would be best for a 12.5:50-Q transformer. A transformer was con-
+structed with 5 bifilar turns of no. 14 wire closely wound on a 2.4-inch
+OD ferrite toroid (permeability of 125). The 5 turns were calculated to
+give the required low-frequency response.
+
+The results in Fig 3-2 show, however, that the maximum high-
+frequency response of this transformer occurred at about the 100:25-Q
+
+High-Frequency Characterization 3-3

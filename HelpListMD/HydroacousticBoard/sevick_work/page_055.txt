@@ -1,0 +1,18 @@
+Fig 4-6—A 4:1 transformer using coaxial cable with a characteristic
+impedance of about 22 0.
+
+about four layers). The outer braid, which was untaped, came from
+RG-58 coax. The transmission loss measurements in Fig 4-8 show the
+optimum impedance level to be 50:12.5 Q. This predicts a characteristic
+impedance of 25 Q. From Table 4-1, a tightly taped braid with similar
+inner conductor and insulation yields a value of 15 Q. For an untaped
+braid coax, it would increase to about 18.75 Q (25% higher). Since a
+larger braid (RG-58 instead of RG-22) was used, and therefore more
+
+Fig 4-7—The schematic
+of a 4:1 coaxlal-cable
+
+transformer compared to
+a bifilar-wire transformer.
+
+4-8 Chapter 4

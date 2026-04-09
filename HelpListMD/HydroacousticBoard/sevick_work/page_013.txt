@@ -1,0 +1,32 @@
+Fig 1-1—The basic building block.
+
+by coiling the transmission line around a ferrite core or by threading the
+line through ferrite beads. The objectives, in practically all cases, are to
+have the characteristic impedance Zo, of the transmission line equal to
+the value of the load, Ry (which is called the optimum characteristic
+impedance) and to have the choking reactance of the transmission line
+much greater than R, (and hence Zo). Meeting these objectives results
+in a “flat” line and hence maximum high frequency response and
+maximum efficiency since conventional transformer currents are sup-
+pressed. In the final analysis, the maximum high-frequency response is
+determined by the parasitics not absorbed into the characteristic imped-
+ance of the line, and the efficiency by the properties of the ferrites when
+used in transmission line transformer applications.
+
+A further understanding of transmission line transformers can be
+gained by noting the longitudinal potential gradients that exist with the
+circuits of the following four:
+
+A) Phase Inverter
+
+By connecting a ground to terminal 4, a negative potential gradi-
+ent of —V, is established from terminal 3 to 4. The gradient from
+terminal 1 to 2 is —V2. For a matched load, V; = V2. If the reactance of
+the windings (or a straight transmission line loaded with beads) is much
+greater than R,, then only transmission line currents flow and terminal
+2 is at a -V>2 potential. When the reactance is insufficient, a shunting,
+conventional current will also flow from terminal 3 to 4, resulting in a
+drop in the input impedance and the presence of flux in the core. As the
+frequency is decreased, the input impedance approaches zero.
+
+Analysis 1-3

@@ -1,0 +1,31 @@
+AUTOTRANSFORMER
+TRANSMISSION LINE
+‘TRANSFORMER
+
+TRANSMISSION LINE
+TRANSFORMER WITHOUT
+‘CORE
+
+FREQUENCY (MHz)
+
+Fig 3-12—Measurements taken on the three transformers in Fig 3-11
+when matched at 12.5:50-Q. Note that the transmission line transformer
+is superior to the autotransformer both in efficiency and bandwidth.
+
+efficiency and bandwidth. As will be shown in Chapter 11, transmission
+line transformers frequently exceed 99% in efficiency, while autotrans-
+formers rarely exceed 95%. This was an early experiment and the
+transmission line transformer was not optimized for the 12.5:50-Q
+level. If it had been, the differences would be even more dramatic.
+Finally, a word about the transmission line transformer without
+the core. Conventional wisdom states that “the core is needed only for
+the low-frequency performance where auto-transformer action takes
+place. At the high-frequency end, the transmission lines are tightly
+coupled and energy is transmitted by a transmission line mode. Hence
+a core is not needed. Even a lucite core would work at the high end.”
+Obviously Fig 3-12 and others throughout the book show that the core
+plays a major role throughout the entire passband of the transformer.
+Surprisingly, Fig 3-12 also shows that transmission line action is effec-
+tive even at the low end of the passband (it is even noticeable at 1 MHz).
+
+High-Frequency Characterization 3-13

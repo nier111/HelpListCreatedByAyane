@@ -1,0 +1,31 @@
+CHARACTERISTIC IMPEDANCE, Z,, (OHMS)
+
+T Tr T T T T
+os 02 03 04 os 06
+
+| oD DIAMETER (inci)
+
+Fig 3-4—Characteristic impedance, Zo, v diameter for a tightly wound
+rod transformer using no. 14 wire.
+
+second, the effect on the fringing field is different since the flux is
+contained within the core.
+
+In the process of winding many practical transformers for the
+second edition of this book, I found that tightly wound rod transformers
+did agree quite well with Ruthroff’s theory. A characteristic impedance
+of 25 Q, using no. 14 wire, did yield the best high-frequency response
+at about the 12.5:50-Q level. The question then arises about the results
+shown in Fig 2-5. Here a 54-inch diameter rod had the same high-fre-
+quency response as a toroidal transformer! In order to understand this
+discrepancy, the characteristic impedance was measured on a 5-turn
+transmission line of no. 14 wire, tightly wound on a %-inch diameter
+rod. The impedance was found to be 26 Q (4 Q higher than expected)
+and, connected as a 1:4 unun, the best high-frequency response occurred
+at the 16.5:66-Q level. Theoretically, the highest frequency response
+should be at the 13:52-Q level. Other experiments with rod transform-
+ers, when varying the diameter of the rods and the number of turns in
+order to maintain the same low-frequency response, showed that the
+characteristic impedance is directly related to the diameter and the
+
+High-Frequency Characterization 3-5

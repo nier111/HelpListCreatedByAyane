@@ -1,0 +1,44 @@
+C) Upper right:
+
+7 turns of coax using no, 14 wire for inner conductor, insulated
+with four layers of Scotch no. 92 tape. The outer braid is from RG-122/U
+cable. The toroid is 14-inch OD 4C4 material (u = 125).
+
+D) Lower right:
+
+6 turns of coax using no. 14 wire for inner conductor, insulated
+with six layers of Scotch no. 92 tape. The outer braid, which is tightly
+wrapped with Scotch no. 92 tape, is from RG-122/U cable. The toroid
+is 14-inch OD 250L material (u = 250).
+
+The transformer in the lower left of Fig 6-4 has, by far, the widest
+bandwidth of the four. It ranges from 1.5 MHz to over 50 MHz. This is
+due to using a smaller toroid and one of the highest permeabilities
+(u=290), while still offering high efficiency. This results in a very short
+transmission line—only 101% inches in length. A power test (see Chap-
+ter 12) showed that this small transformer was capable of handling
+700 W without excessive temperature rise. A conservative rating would
+be 200 W of continuous power. It is interesting to note that the two
+transformers on the right in Fig 6-4 use two different types of toroids,
+inner conductors and outer braids. The characteristic impedances of
+both coaxial cables are about 22 Q, even though the one on the lower-
+right has two more layers of Scotch no. 92 tape. The difference is mainly
+due to the taping of the outer braid with Scotch no. 92 tape. Wrapping
+the outer braid with tape reduces the spacing between the inner conduc-
+tor and outer braid and hence lowers the characteristic impedance by
+about 25%. Also, since the transformer in the lower-right in Fig 6-4 uses
+a higher-permeability toroid (250 compared to 125), one fewer turn is
+required in order to have about the same low-frequency response. This
+in turn raises the high-frequency response by a ratio of 7/6.
+
+Fig 6-5 shows three versions of a floating-third-winding 1:4 unun
+using toroids. Without the third winding (see Sec 4.4), the characteristic
+impedance would be on the order of 45 Q, and thus have the highest
+frequency response at the 22.5:90-Q level. The third winding (see
+Fig 4-11), which is left floating, reduces the characteristic impedance
+to about 30 Q. This enables fairly good 12.5:50-Q operation. Since the
+characteristic impedances are in excess of 25 Q, only small toroids,
+resulting in the shortest possible lengths of transmission line, are
+recommended. The parameters of these three transformers are:
+
+6-8 Chapter 6

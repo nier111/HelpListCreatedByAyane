@@ -1,0 +1,9 @@
+In reviewing the differences, at the 50:200-Q level, between the
+two types of Guanella transformers shown in Fig 6-9, the advantage
+probably goes to the one on the left, which uses two baluns back-to-back
+(Fig 6-2A). This permits a smaller toroid to be used in the 1:1 balun. If
+the characteristic impedance of the 1:1 balun is 50 Q, the same as that
+of the transmission line feeding this transformer, then the 1:1 balun only
+adds about two feet to the feeder cable. It is essentially transparent.
+
+1:4 Unbalanced-to-Unbalanced Transformer Designs 6-17

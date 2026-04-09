@@ -1,0 +1,40 @@
+Fig 2-2—The low-
+
+frequency model fora
+1:4 autotransformer.
+
+line is shorter and the magnetizing inductance is larger because of the
+shortened average magnetic path length. By using the highest perme-
+ability consistent with high efficiency, the low-frequency response is
+helped further. In fact, by doubling the permeability from 125 to 250,
+which is a practical value when impedances of less than 200 Q are
+involved, the number of turns can be reduced by 30% while maintaining
+the same low-frequency response. This in turn increases the high-fre-
+quency response by 40% since it is inversely proportional to the number
+of turns. Experiments by the author have shown that toroids with outside
+diameters between 1.5 and 2 inches can be used in most Amateur Radio
+applications and still handle the full legal limit of power.
+
+When a rod is used as a transformer core, the calculations for the
+magnetizing inductance become complicated. This is because of the
+effect of the high-reluctance air path external to the core. As will be
+explained shortly, the inductance is independent of the rod’s permeabil-
+ity. Experimentally, it is on the order of one-half the value of a toroid
+with a permeability of 125.
+
+With the following definition for available power,
+
+2
+Pavailable = vs (Eq 2-2)
+4Rg
+
+the equation for the low-frequency performance of Fig 2-2 can be
+written as:
+
+Pavaitable _ Ry? + 4Xy"
+
+Pout aXy2 (Eq 2-3)
+
+where Xy = 2nfLy (Eq 2-4)
+
+Low-Frequency Characterization 2-3

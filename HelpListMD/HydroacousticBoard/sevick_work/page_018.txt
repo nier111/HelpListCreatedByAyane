@@ -1,0 +1,44 @@
+were very short under these conditions (therefore little phase-shift
+between the summed voltages), he was able to demonstrate passbands
+essentially “flat” from 500 kHz to 100 MHz.
+
+Fig 1-3 shows the high-frequency schematics of the two 1:4
+transformers presented by Ruthroff. Fig 1-3A has the basic building
+block in the “boot-strap” configuration resulting in a 1:4 unun (unbal-
+anced-to-unbalanced transformer). Fig 1-3B has the basic building
+block in the phase-reversal configuration resulting in a 1:4 balun. These
+high frequency models assume sufficient longitudinal reactances of the
+windings such that the outputs are completely isolated from the inputs.
+Unlike Guanella’s model, which can practically be analyzed by inspec-
+tion, Ruthroff resorted to loop and transmission line equations to solve
+for the power in the load and hence transducer (insertion) loss. For the
+unun of Fig 1-3A, they are:
+
+Ve=(1 +1)Rg+ Vi
+
+InRy = Vi + V2
+
+V, = V2 cos Bl +j Ip Zo sin Bl
+
+I, =I, cos Bl + V2/ Zo sin Bl (Eq 1-5)
+
+He also found that the maximum transfer of power occurs when
+R, = 4R, and that the optimum value of the characteristic impedance is
+Zo = 2Rg. Fig 1-4 shows the loss as a function of the normalized line
+length and for various values of the characteristic impedance, Zp. Even
+with the optimum value of the characteristic impedance, the loss is
+found to be 1 dB when the line is a quarter-wavelength and infinite when
+it is a half-wavelength. Fig 1-4 shows the value of keeping the trans-
+mission line as short as possible with Ruthroff’s 1:4 unun.
+
+Ruthroff also derived equations for the input impedances seen at
+either end of the transformer with the opposite end terminated in Z,.
+They are:
+
+. Z, cos Bl + j Zp sin Bl
+Zin (low-impedance end) = Zp ae al (Eq 1-6)
+and
+ta. 2 Z, (1 + cos Bl) +7 Zo sin Bl
+Zin (high-impedance end) = Zo Peseia aca | (Eq 1-7)
+
+1-8 Chapter1

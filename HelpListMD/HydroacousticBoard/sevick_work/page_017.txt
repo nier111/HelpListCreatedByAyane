@@ -1,0 +1,22 @@
+(B)
+
+Fig 1-3—The Ruthroff 1:4 transformers: (A) unun and (B) balun.
+
+reversals and hybrids. The low-frequency responses of these various
+transformers can differ greatly depending upon where the ground
+connections are made and the number of cores used. These will be
+discussed at length in Chapter 2.
+
+Sec1.4 The Ruthroff Analysis
+
+Ruthroff presented, in his classical 1959 paper (ref 9), another
+technique for obtaining a 1:4 impedance transformation. The concept
+involved summing a direct voltage with a delayed voltage which
+traversed a single transmission line. Since his investigations involved
+small-signal applications, he was able to use very small, high-perme-
+ability cores and fine wires. His manganese-zinc cores ranged only from
+0.175 to 0.25 inch in OD and from 1600 to 3000 in permeability. His
+conductors, which were twisted in order to control the characteristic
+impedance, were only no. 37 and 38 wires. Since the transmission lines
+
+Analysis 1-7

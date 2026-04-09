@@ -1,0 +1,44 @@
+grounded, resulting in
+a step-down balun, the
+low-frequency re-
+sponse is the same in
+each case. Further, it
+can be calculated from
+either side. When
+looking in at the low-
+impedance side, one
+sees the magnetizing
+inductance Ly, com-
+prised of winding 3-4
+in series with winding
+6-5. If the two wind-
+ings are on separate
+cores, the magnetizing
+inductance is just the
+sum of the two sepa-
+rate inductances. But
+if a single toroidal
+core is used, and if the
+windings are in the Fig 2-3—Low-frequency model of the Guanella
+same direction so asto _1°4 transformer.
+
+be series-aiding, thus
+
+giving 100% coupling, then the total magnetizing inductance would be
+greater by a factor of two. It is important to point out here that if the
+total number of bifilar turns on the Guanella balun (the sum of the two
+windings) equals the number of turns on the Ruthroff balun, the low-
+frequency responses are the same, but not the high-frequency responses.
+The high-frequency response of the Guanella balun is far greater, since
+in-phase voltages are summed in his technique, and the effective length
+of the transmission lines is only one-half that of the Ruthroff trans-
+former.
+
+B) The 1:4 unun (unbalanced-to-unbalanced) transformer
+
+Since the Guanella transformer adds in-phase voltages, it also
+offers the best high-frequency response in an unun application. There
+are two methods for converting the Guanella transformer (which is
+basically a balun) into unbalanced use: one involves using two separate
+
+Low-Frequency Characterization 2-5

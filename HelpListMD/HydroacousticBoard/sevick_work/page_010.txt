@@ -1,0 +1,65 @@
+Chapter 13
+
+Chapter 14
+Chapter 15
+
+Chapter 16
+
+Chapter 17
+
+Chapter 18
+
+Chapter 19
+
+About the Author
+
+Hints and Kinks
+
+13.1 Introduction
+
+13.2 Selecting Ferrites—Substitutions
+
+13.3 Winding Rod Transformers
+
+13.4 Winding Toroidal Transformers
+
+13.5 Constructing Low-Impedance Coaxial Cable
+13.6 The Care and Handling of Ferrite Transformers
+
+Summary Statements
+References
+
+Transmission Line Transformer Efficiency
+
+16.1 Introduction
+16.2 Loss Mechanisms
+
+Notes on Power Combiners and Mixer Transformers
+17.1 Introduction
+
+17.2 Power Combiners and Splitters
+
+17.3 New Models
+
+17.4 Mixer Transformers
+
+17.5 Double-Balanced Mixer Operation
+
+Equal-Delay Transformers
+
+18.1 Introduction
+
+18.2 The Need for Fractional-Ratio Transformers
+18.3 The Equal-Delay Transformer
+
+18.4 Integer [n?] Ratio Equal-Delay Transformers
+18.5 Fractional [(n/m)?] Ratio Equal Delay Transfomers
+18.6 Unun v Balun Equal-Delay Transformers
+
+18.7 Calculation of Impedance Transformation Ratios
+18.8 Achievable Transformation Ratios
+
+18.9 A 50- to 75-Ohm Equal-Delay Unun Example
+18.10 Performance of the 50-to 75-Ohm Transformer
+
+Additional References

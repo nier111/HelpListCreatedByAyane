@@ -1,0 +1,31 @@
+Fig 4-9—A pictorial view and schematic diagram of a 4:1 three- wire
+transformer with its outer conductors in parallel.
+
+some improvement can be made by using trifilar windings. The result
+is increased coupling and lower characteristic impedances.
+
+There are two methods of lowering the characteristic impedance
+with a trifilar winding. The first one uses the two outer wires connected
+in parallel (Fig 4-9). Fig 4-10 shows the experimental data for a 4:1
+transformer with four trifilar turns of no. 14 wire wound on a G core.
+
+4:1 TRANSFORMER
+
+N=5 TURNS, 3 WIRE LINE NO. 14
+G CORE, OD =2.4"
+
+© 5012.52
+© 75:18.759
+490:22.5 2
+
+TRANSDUCER LOSS (dB)
+
+—L 1
+1.0 10
+
+FREQUENCY (MHz)
+
+Fig 4-10—Loss vs frequency for a 4:1 transformer with two outer
+conductors connected in parallel.
+
+4-10 Chapter 4

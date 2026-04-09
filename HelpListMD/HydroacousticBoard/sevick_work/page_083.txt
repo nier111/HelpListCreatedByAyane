@@ -1,0 +1,25 @@
+Fig 6-9—Three wideband Guanella 1:4 ununs. The transformer on the
+left, using the schematic of Fig 6-2A, is designed to match 50 © to 200
+Q. The transformer in the center, using the schematic of Fig 6-2B, is
+designed to match 75 Q to 300 Q. The transformer on the right, which
+also uses the schematic of Fig 6-2B, is designed to match 62.5 © to
+250 Q.
+
+effect. At the 75:300-Q level, the variation in the impedance ratio is only
+1:4 to 1:4.3 in going from 1.5 MHz to 30 MHz. A conservative power
+rating is 1 kW of continuous power.
+
+C) Right:
+
+Two toroids are used as above. One toroid has 15 bifilar turns of
+no. 16 wire, and the other 16 turns of the same wire. The extra phase
+delay of the 16-turn winding is negligible. The windings, which are
+covered with 18-mil wall Teflon tubing, have a characteristic impedance
+of 125 Q. The cores are 2.4-inch OD no. 64 material (41 = 250). At the
+optimum impedance level of 62.5:250-Q, a constant impedance ratio
+exists from 1.5 MHz to well beyond 30 MHz. If no. 14 wire is used, this
+flat response would occur at the 50:200-Q impedance level. A conser-
+vative power rating with either wire would be 1 kW of continuous
+power,
+
+6-16 Chapter 6

@@ -1,0 +1,42 @@
+Ny =6 TURNS, W= 7/64",
+4C4 CORE,OD=1.5"
+
+No= 5 TURNS, W= 3/8",
+KS CORE, OD =1.75"
+t=0.0028
+
+© 50:3.1252
+© 54:3.52
+4 64:4.02
+
+é 1 h
+O14 1.0 10 100
+
+FREQUENCY (MHZ)
+
+TRANSDUCER LOSS (dB)
+
+Fig 4-5—Experimental results of the 16:1 transformer of Fig 4-4 at three
+different impedance levels. Note the best level is at about 54:3.5 ©.
+
+ers connected in series. They are individually optimized for low-imped-
+ance operation. The 4C4 core is wound with six turns of 7%4-inch
+stripline designed for matching 50 Q to 12.5 Q; the K5 core is wound
+with five turns of %-inch stripline designed for matching 12.5 Q to
+3.125 Q. The insulation is Scotch no. 92 tape. The experimental results
+in Fig 4-5 show that a considerable portion of the passbands, at the
+various impedance levels, have less than 0.1 dB of loss—that is, they
+have better than 98% efficiency. A small improvement in bandwidth
+could probably be made by using only four turns instead of five on the
+KS core with the %-inch stripline.
+
+Sec 4.3 Low-Impedance Coaxial Cable Transformers
+
+Fig 3-6 shows that a 50-Q coaxial cable winding presents an
+optimum match at the 100:25-Q level and gives a high-frequency
+response close to that predicted by Ruthroff. To carry this technique to
+lower impedance levels, a series of various low-impedance coaxial
+cables were constructed and measured both as straight sections of cables
+and when wound around toroids. The cables used inner conductors of
+
+4-6 Chapter 4

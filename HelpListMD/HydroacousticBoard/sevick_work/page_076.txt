@@ -1,0 +1,31 @@
+Fig 6-5—Three versions of a floating-third-wire 1:4 unun. The
+transformer on the left is rated at 1 kW of continuous power. The other
+two are rated at 200 W of continuous power.
+
+A) Left:
+7 trifilar turns of no. 14 wire on a 1%-inch OD 4C4 toroid
+(u = 125).
+
+B) Center:
+9 trifilar turns of no. 16 wire ona 14-inch OD Q1 toroid (u = 125).
+
+C) Right:
+8 trifilar turns of no. 16 wire ona 14-inch OD toroid (uu = 290).
+
+The larger transformer on the left in Fig 6-5 is capable of handling
+1 kW of continuous power. The other two can easily handle 200 W of
+continuous power. The transformer on the right has the highest perme-
+ability, and thus the shortest length of transmission line. This results
+(with Ruthroff transformers) in the highest frequency response at the
+12.5:50-Q level of the three. The two on the left increase their imped-
+ance ratios somewhat (but not at the expense of efficiency) beyond
+20 MHz.
+
+The preceding examples in this section used the Ruthroff 1:4
+circuit of Fig 6-1A and were capable of covering the 1.5- to 30-MHz
+range at power levels common to Amateur Radio. These transformers
+used a single transmission line and, at the 12.5:50-Q level, allowed for
+short enough transmission lines so as to satisfy both the low- and
+high-frequency requirements. The 1:4 Guanella transformers (Fig 6-2)
+
+1:4 Unbalanced-to-Unbalanced Transformer Designs 6-9

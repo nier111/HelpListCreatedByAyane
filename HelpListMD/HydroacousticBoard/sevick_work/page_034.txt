@@ -1,0 +1,49 @@
+CHARACTERISTIC IMPEDANCE, Zo,
+VS WIRE DIAMETER
+
+Sor (TIGHT WINDING ON
+\. 5/8”—DIAMETER ROD)
+
+40h \
+
+3 NANO. 18
+
+=
+
+& 30
+
+©
+
+N
+
+20
+
+10
+
+°
+10 20 30 40 50 60 70 80 90
+WIRE DIAMETER (MILS)
+
+Fig 3-1—Characteristic impedance, Zo, v wire diameter for a tightly
+wound transformer.
+
+One of the purposes of this chapter is to compare the theory of
+Ruthroff with experiments on his 1:4 unun, since considerable informa-
+tion has been published in the literature on this transformer. His tech-
+nique of bootstrapping (connecting the input to the bottom of the
+transmission line at the output) is essentially the same as that used by
+the author to obtain wideband response with ratios less than 1:4 with
+higher-order windings such as trifilar, quadrifilar and so on. Also
+included in this chapter is the result of a study on twisted transmission
+lines, autotransformers v transmission line transformers and, finally, a
+discussion on how ferrite materials designed for operation up to 10 MHz
+in conventional transformers can perform very well beyond 100 MHz
+in transmission line transformers.
+
+Sec 3.2 Experiment v Theory
+
+Ruthroff’s analysis of the 1:4 unun, which was reviewed in
+Chapter 1, predicted that the highest frequency response occurs when
+the characteristic impedance, Zo, of the transmission line is the geomet-
+
+3-2 Chapter 3

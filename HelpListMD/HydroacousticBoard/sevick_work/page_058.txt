@@ -1,0 +1,56 @@
+Fig 4-11—The
+R._ floating-third-wire
+transformer.
+
+As shown, the transformer is now optimized at the 75:18.75-Q level.
+Even the 50:12.5-Q level performance is much better than that of the
+close-wound transformer shown in Fig 3-2. Adding more wires in
+parallel improves the low-impedance level response even further. This
+
+°
+fo
+
+TRIFILAR, TAPPED TRANSFORMER
+
+N=6 TURNS,NO.14 WIRE, L=11"
+4C4 CORE,O D=1.5" 4:4 RATIO
+
+°
+FS
+
+2
+a
+
+e 50:12.52
+© 60:152
+4 80:202
+
+2°
+@
+
+a
+z=
+a
+B
+te}
+a
+c
+ry
+°
+2
+a
+QD
+z
+=
+=
+F
+
+40 10
+FREQUENCY (MHz)
+
+Fig 4-12—Experimental results of a tapped trifilar transformer (des-
+cribed in Chapter 8) designed with impedance ratios of 4:1, 5.9:1, 7.36:1
+and 9:1. The 4:1 ratio shows the excellent frequency response of a wire
+transformer at the 50:12.5-Q level because of the floating third wire.
+
+Transformer Parameters for Low-Impedance Applications 4-11

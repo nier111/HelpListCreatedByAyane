@@ -1,0 +1,41 @@
+than 5 times, especially when dealing with the variable impedances of
+antennas. A conservative design would result in Xv (the reactance of
+the so-called magnetizing inductance, Eq 2-4) exceeding the character-
+istic impedance, Zo, by a factor of about 10. A demonstration of the
+dependency of the low-frequency response on impedance level is shown
+in Fig 3-7. Since both transformers have the same number of turns, and
+hence the same reactance, Xy, the 200:50-Q level is poorer at the
+low-frequency end by a factor of 5 over the 40:10-Q level. Obviously,
+a 4:1 transformer cannot be used for both high- impedance and low-im-
+pedance levels. As in the case of these two transformers, they are either
+designed for high- or low-impedance operation. It is only when imped-
+ance ratios are very low, say around 1.5:1 to 2:1, that transmission line
+transformers can perform quite well in either direction (for example,
+matching 50 Q to a higher or lower impedance). Even then, one direction
+is usually much better than the other.
+
+High-impedance transmission lines are best obtained with
+spaced, two-wire lines. The equation for the characteristic impedance
+for an open-wire line in air is
+
+Zo = 120 cosh"! D/d
+
+= 276 log 2D /d for D>>d (Eq 5-1)
+where
+, '
+ce
+S i a)
+1
+
+In a dielectric other than air, Eq 5-1 would be reduced by a factor
+of 1/Ve, where € is the dielectric constant.
+
+As was learned earlier by the author, calculations for the charac-
+teristic impedance using a theoretical equation like Eq 5-1 do not produce
+accurate results in the real world. This is because of the uncertainties in
+spacing between the conductors, in the effects of the dielectrics, and the
+proximity effect of neighboring turns. As with the preceding cases of
+tight wire windings, striplines and coaxial cables on toroids, transformers
+were wound with various thicknesses of wire and spacings and measured
+
+Transformer Parameters for High-Impedance Applications 5-3

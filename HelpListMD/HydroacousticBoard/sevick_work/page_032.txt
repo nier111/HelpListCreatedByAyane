@@ -1,0 +1,22 @@
+transformer with 10 bifilar turns of no. 14 wire. Fig 2-7 shows the loss
+measurements v frequency for the three different permeabilities. Notice
+that there is virtually no difference in the low-frequency response for
+the three different values of permeability. This experiment clearly
+showed the strong influence of the high-reluctance air path around the
+rods.
+
+In summary, the low-frequency performance of a rod transformer
+using permeabilities of 125 and greater is independent of the permeabil-
+ity, and only mildly dependent on the length of the rod. It compares
+favorably with a toroidal transformer having a permeability of about 50.
+Because of the influence of the high-reluctance air path around the core,
+the efficiency is also quite independent of the permeability. This is not
+like the case of the toroidal transformer, which has considerably more
+loss at the permeability levels of 750 and greater, and will be discussed
+further in Chapter 11. And finally, experiments by the author have
+shown that rods having diameters of 0.375 inch to 0.5 inch can handle
+the full legal limit of power in Amateur Radio and are the favorite sizes.
+Itcan also be shown mathematically that a 0.375-inch rod with one-third
+more turns than a 0.5-inch rod has the same low-frequency response.
+
+Low-Frequency Characterization 2-11

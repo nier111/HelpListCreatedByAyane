@@ -1,0 +1,26 @@
+Sec 6.3 12.5:50-Q Ununs
+
+Fig 6-3 shows five Ruthroff designs (Fig 6-1A) using rods with
+diameters from 4% to ¥% inch. The cable connectors are all on the
+low-impedance sides of the transformers. The lengths of the rods, which
+are not critical (see Sec 2.5), are 4 inches. The permeability of each is
+125. This is the same as that of the ferrite in the AM loop-stick antenna.
+The three transformers on the left, which use no. 14 wire, are capable
+of handling 1 kW of continuous power. The two on the right, which use
+no. 16 wire, are capable of handling 200 W of continuous power. A
+single-coated Formvar® (SF) wire has been used successfully. Others,
+like Formex® and PE (plain enamel), should find equal success. If a
+more conservative design is needed, then Pyre ML® or H Imideze®
+(which are the same) are recommended. The latter two have thick
+coatings (about 3 mils) of an aromatic polyimide. Tightly wound trans-
+formers with these polyimide coatings, such as those in Fig 6-3, would
+have breakdowns similar to those of coaxial cables. Further, the differ-
+ences in characteristic impedances of the coiled transmission lines due
+to the extra 1.5-mil thickness have been found to be negligible.
+
+Fig 6-3—Five Ruthroff 1:4 ununs designed to match 12.5 Q to 50 Q In
+the frequency range of 1.5 MHz to 30 MHz. The two on the right are
+rated at 200 W of continuous power. The three on the left are rated at
+1 kW of continuous power.
+
+1:4 Unbalanced-to-Unbalanced Transformer Designs 6-5

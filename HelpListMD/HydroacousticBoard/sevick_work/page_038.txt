@@ -1,0 +1,37 @@
+at EXPERIMENTAL:
+- THEORETICAL.
+
+6E 4:1 TRANSFORMER, 100:252
+
+N*5 BIFILAR TURNS, NO.14 WIRE
+| CLOSE WOUND, Q1 CORE (F568-1)
+
+TRANSDUCER LOSS (dB)
+T
+
+1.0 10 100 1000
+
+FREQUENCY (MHZ)
+
+Fig 3-5—Comparison of experimental and theoretical values of
+insertion loss v frequency for a tightly wound Ruthroff 4:1 transformer.
+
+4.1 TRANSFORMER
+
+N25 TURNS RG-58
+G CORE,OD = 2.4"
+
+© 75:18.75.2
+
+0100: 252
+4120: 302
+
+TRANSDUCER LOSS (dB)
+
+1.0 10
+FREQUENCY (MHZ)
+
+Fig 3-6—Insertion loss v frequency at three different impedance levels
+for a Ruthroff 4:1 transformer using 50-2 coaxial cable.
+
+3-6 Chapter 3

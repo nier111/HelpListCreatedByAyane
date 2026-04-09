@@ -1,0 +1,21 @@
+Fig 6-7—Four Ruthroff 1:4 ununs (Fig 6-1A) designed to operate at the
+25:100-Q level.
+
+Fig 6-7 shows four Ruthroff ununs designed to operate at the
+25:100-Q impedance level. The cable connectors are all at the low-im-
+pedance sides of the transformers. The parameters for these transform-
+ers are:
+
+A) Lower left:
+9 bifilar turns of no. 14 wire ona 1!4-inch OD 4C4 toroid (u = 125).
+One wire is covered with two layers of Scotch no. 92 tape (Zp = 50 Q).
+
+B) Upper left:
+10 bifilar turns of no. 14 H Imideze wire on a 1%4-inch OD 250L
+toroid (1 = 250). (Zp = 46 Q).
+
+C) Upper right:
+14 bifilar turns of no. 16 wire on a /2-inch diameter rod (= 125).
+One wire is covered with 2 layers of Scotch no. 92 tape (Zo = 54 Q).
+
+6-12 Chapter 6

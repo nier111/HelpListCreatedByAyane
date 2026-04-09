@@ -1,0 +1,50 @@
+THEORY
+“
+
+4:1 TRANSFORMER
+N®7, 4C4 CORE
+CORE OD =1.5"
+200: 502
+© 40: 102
+NO. 18
+
+WIRE , TEFLON
+INSULATION
+
+-
+oa
+73
+QD
+i}
+a
+[4
+g
+a
+:
+
+1
+1.0 10
+FREQUENCY (MHZ)
+
+Fig 3-7—Measurements on two transformers with similar lengths of
+winding, but optimized to operate at 40:10-Q and 200:50-Q, respectively.
+
+pared twisted pairs with other types of windings. Twisting has been a
+popular technique and used by many (refs 9,16). It lowers the charac-
+teristic impedance by virtue of the increased capacitance inherent in the
+close proximity of the wires. The three types of windings investigated
+were: (1) no. 16 twisted pair (5 turns per inch) with a characteristic
+impedance of 40 Q, (2) tightly wound no. 16 wire with a characteristic
+impedance of 35 Q, and (3) a pair of no. 16 wires (called twin-lead) held
+closely together by insulating tape and with a characteristic impedance
+of 50 Q. Fig 3-9 shows the three transformers using the various types
+of windings. By my definition, the center transformer is the tightly
+wound one. Fig 3-10 shows the experimental results as a function of
+impedance levels for these 4:1 transformers at A, B, C and D.
+
+On balance, these results favor the simple twin-lead winding.
+Surprisingly, the twisted pair was no better than the twin-lead winding
+at the lowest impedance level of 50:12.5- Q, and the tight winding was
+the best at the highest level of 120:30-Q. The poorer low-frequency
+
+3-8 Chapter 3

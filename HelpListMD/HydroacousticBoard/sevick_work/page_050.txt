@@ -1,0 +1,42 @@
+Zo = VL/C (Eq 4-1)
+
+where
+L = the distributed inductance
+C = the distributed capacitance.
+
+Zo can be lowered by increasing C, by lowering L or by a combination
+of both. One method to obtain a low value of Zo is to use very closely
+spaced flat conductors called stripline. If the width of the flat conductor
+is much larger than the spacing between the conductors, the value of the
+characteristic impedance is
+
+=377 te z
+Zo = 377 (Eq 4-2)
+
+where
+t =the spacing between the conductors
+W = the width
+€ = the dielectric constant of the insulation.
+
+4.1 STRIPLINE TRANSFORMERS
+
+N=5 TURNS, t=0.0028"
+KS CORES, OD = 1.75"
+
+© 40: 100, ve" STRIPLINE
+
+© 30: 752, 3/16" STRIPLINE uM
+4 22:55, 1/4" STRIPLINE Cannes
+9 16: 42, 3/6" STRIPLINE
+
+016: 49, 1/4°-3 STRIPLINE
+
+TRANSDUCER LOSS (dB)
+
+at 10 10 * $00
+FREQUENCY (MHZ)
+
+Fig 4-2—Loss v frequency at the optimum impedance levels for the
+various stripline windings.
+
+Transformer Parameters for Low-Impedance Applications 4-3

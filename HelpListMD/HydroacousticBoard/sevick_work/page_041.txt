@@ -1,0 +1,16 @@
+Fig 3-6—The two transformers used in the measurements shown in
+Fig 3-7.
+
+performance of the tightly wound transformer is attributable to the
+difference in the permeability of its core. This experiment not only
+points out the effect of the parasitics not considered in the theory, but
+also the questionable use of twisted pairs for obtaining better low-im-
+pedance performance. It should also be noted, however, that Ruthroff
+used very fine wires (no. 37 and 38 Formex) and extremely small cores
+(0.175- to 0.25-inch OD). Twisting was necessary to keep the wires
+closely coupled.
+
+Fig 3-8—Transformers used in the comparison of the performance of
+twisted pair windings v tightly wound and twin-lead windings.
+
+High-Frequency Characterization 3-9

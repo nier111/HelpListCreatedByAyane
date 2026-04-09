@@ -1,0 +1,42 @@
+©Zo*Zp(OPTIMUM)
+8Z9#0.9,1.41xZg( OPTIMUM)
+
+©Z9*0.78,133%Zol OPTIMUM)
+O.5F — 029+0.66,1.5xZo (OPTIMUM)
+0Zp#0.5,2.0%Zp (OPTIMUM)
+
+TRANSDUCER LOSS (8)
+
+7
+° O 0.02 004 O06 008 040 012 O44 046 0418 0.20
+
+NORMALIZED LENGTH OF TRANSMISSION LINE (€/))
+
+Fig 1-4—Loss as a function of normalized transmission line length in a
+Ruthroff 1:4 unun for various values of characteristic impedance, Zo.
+
+T T
+Z*3Z
+10 ‘0° 3Zopr
+Zo* 2 Zopt
+Zo*Zopt
+og J
+Zz
+«
+a 06 290.5 Zopr
+N
+3
+Zz
+z 04
+x Os Z9* 0.333 Zopp
+2
+02
+°
+0.02 0.04 0.06 0.08 010 O12 0.14
+(a)
+TRANSMISSION LINE LENGTH
+
+Fig 1-5—The normalized real part of the input impedance of a Ruthroff
+1:4 unun as a function of Zo and the length of the transmission line.
+
+Analysis 1-9

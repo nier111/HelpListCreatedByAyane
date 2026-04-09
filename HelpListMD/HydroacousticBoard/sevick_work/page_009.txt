@@ -1,0 +1,51 @@
+Chapter 10
+
+Chapter 11
+
+Chapter 12
+
+9.2.1 Rod v Toroidal Baluns
+9.2.2 Bifilar v Trifilar Baluns
+9.2.3 Air-Core v Ferrite-Core Baluns
+9.3 The 1:4 Balun
+9.3.1 50:200-Q Baluns
+9.3.2 75:300-Q Baluns
+9.3.3 25:100-Q Baluns
+9.3.4 12:5:50-Q Baluns
+9.4 The 1:9 Balun
+9.5 Baluns for Yagi, Quad and Rhombic Antennas
+9.5.1 Yagi Beams
+9.5.2 Quad Antennas
+9.5.3 Rhombic Antennas
+
+Multimatch Transformers
+10.1 Introduction
+10.2 Dual-Output Transformers
+10.2.1 1:1.5 and 1:3 Ratios
+10.2.2 1:2 and 1:4 Ratios
+10.3 Parallel Transformers
+10.4 Dual-Output, Parallel Transformers
+10.5 8-Ratio Transformer
+
+Materials and Power Ratings
+11.1 Introduction
+
+11.2 History of Ferrites
+
+11.3 Experimental Results
+11.4 Power Ratings
+
+11.5 Suppliers of Materials
+
+Simple Test Equipment
+
+12.1 Introduction.
+
+12.2 The Wheatstone Bridge
+
+12.3 A High-Frequency Resistive Bridge
+
+12.4 Signal Generators
+
+12.5 Efficiency Measurements — The Soak Test
+12.6 Characteristic Impedance Measurements

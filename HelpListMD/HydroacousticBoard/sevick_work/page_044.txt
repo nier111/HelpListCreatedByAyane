@@ -1,0 +1,33 @@
+Fig 3-11—The three transformers used in comparing the performance
+of the autotransformer and the transmission line transformer. On the
+left is an autotransformer. In the center is the transmission line
+transformer, while on the right is a transmission line transformer
+without a ferrite core. All transformers had a total of 10 turns.
+
+Sec 3.4 The Autotransformer v the Transmission Line Transformer
+
+The single-winding autotransformer of Fig 2-1A has been around
+for a long time. In some cases, it has been recommended for use in
+impedance matching in the HF region (3 to 30 MHz). Little information
+was available on its comparison with the transmission line transformer,
+so an experimental investigation was undertaken to determine the dif-
+ferences in performance.
+
+Three 1:4 unbalanced-to-unbalanced transformers were con-
+structed with the same number of turns and types of winding. A photo-
+graph of the three transformers is shown in Fig 3-11. The transformer
+on the left is a 10-turn autotransformer using no. 16 wire wound on a
+Q1 ferrite toroid (4 = 125) with an outer diameter of 1.25 inch, an inner
+diameter of 0.75 inch and a core thickness of 0.375 inch. The trans-
+former in the center is a transmission line transformer with 5 bifilar
+turns of the same wire, also wound on a similar Q1 core. The transformer
+on the right is a transmission line transformer with the same winding as
+the center transformer, but without the core. The objective here was to
+observe, in particular, the effect of the core on the high-frequency
+response of a transmission line transformer.
+
+Fig 3-12 shows the measurements taken on these transformers
+when matching 12.5 Q to 50 Q. It is immediately apparent that the
+transmission line transformer is superior to the autotransformer in both
+
+3-12 Chapter 3

@@ -1,0 +1,44 @@
+impedance level of 50:200-Q, the frequency range is 1.5 MHz (margin-
+ally) to over 65 MHz. The transformation ratio only varies from 1:4 to
+1:5 over this wide frequency range. This is a result of the short trans-
+mission line—only 13 inches long. The power capability is limited only
+by the melting of the thin wire. This could be 100 W or more.
+
+D) Lower right:
+
+13 bifilar turns of no. 16 wire on a 4-inch diameter no. 61 rod
+(w= 125). The insulation is 15-mil wall Teflon tubing. At the optimum
+impedance level of 50:200-Q, the useful frequency range is 7 MHz to
+25 MHz. At 30 MHz, the impedance ratio rises to 1:5. The power rating
+is 500 W of continuous power.
+
+In order to attain a much higher frequency response at high power
+levels, the Guanella-based transformers shown in Fig 6-9 have to be
+used. A description of these transformers is as follows:
+
+A) Left:
+
+A 1:1 balun back-to-back with a 1:4 balun (Fig 6-2A). The 1:1
+balun (the smaller toroid) has 11 bifilar turns of no. 14 wire ona 134-inch
+OD 250L toroid (u = 250). One of the wires has two layers of Scotch
+no. 92 tape (Zp = 50 Q). The 1:4 balun has two windings of 9 bifilar
+turns, in series aiding (wound in the same direction), of no. 14 wire on
+a2.4-inch OD no. 64 toroid (u = 250). The wires are covered with 18-mil
+wall Teflon tubing. At the optimum impedance level of 55:220-Q, the
+transformation ratio is flat from 1.5 MHz to 50 MHz. A conservative
+power rating is 1 kW of continuous power.
+
+B) Center:
+
+This transformer was designed to match 75 Q to 300 Q. One of
+the toroids only acts as a mechanical support for the transmission line
+(the bottom bifilar winding in Fig 6-2B). Each toroid has 13 bifilar turns
+of no. 14 wire on a 3-inch OD 4C4 material (uu = 125). The spacing of
+the wire of approximately 4 inch yields a characteristic impedance of
+150 Q. In order to obtain this spacing, one toroid has 18-mil wall Teflon
+tubing on its wires, with this same tubing as a spacer between the
+covered wires. The other toroid has its wires spaced with sections of
+Scotch no. 27 glass tape. At these levels of characteristic impedances,
+the spacing between wires can vary somewhat without any appreciable
+
+1:4 Unbalanced-to-Unbalanced Transformer Designs 6-15

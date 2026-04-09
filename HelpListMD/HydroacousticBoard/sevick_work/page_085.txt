@@ -1,0 +1,34 @@
+Chapter 7
+
+Unbalanced-to-Unbalanced
+Transformer Designs with
+Impedance Ratios Less
+Than 1:4
+
+Sec7.1 Introduction
+
+ittle information is available on the characterization and prac-
+| tical design of transmission line transformers with impedance
+ratios of less than 1:4. Investigations reported in the literature
+have only treated the bifilar winding and its application to obtain
+impedance ratios of 1:1, 1:4, 1:9 and 1:16. But many applications can
+be found for efficient, broadband transformers with impedance ratios
+of 1:1.5, 1:2 and 1:3. Some examples include the matching of 50-Q
+coaxial cable to: (A) vertical antennas, inverted Ls and slopers (all over
+good ground systems), (B) a junction point of two 50-Q coaxial cables,
+(C) 75-Q coaxial cable and (D) shunt-fed towers performing as vertical
+antennas.
+
+Early work by the author has shown that the tapped-Ruthroff 1:4
+transformer can yield low-impedance designs under certain conditions.
+Their designs and limitations are included in this chapter. More recent
+work by the author has shown that, by far, a better technique is to use
+higher-order windings with the Ruthroff “bootstrap” method. This tech-
+nique leads to further interesting applications such as broadband, multi-
+match transformers and compound arrangements leading to a new class
+of baluns: baluns which are capable of matching 50-Q cable directly to
+the low-impedance, balanced inputs of Yagi antennas and to the higher-
+impedance, balanced inputs of quad antennas.
+
+Unbalanced-to-Unbalanced Transformer Designs
+with Impedance Ratios Less Than 1:4 7-1

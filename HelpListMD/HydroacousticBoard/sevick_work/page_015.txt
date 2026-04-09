@@ -1,0 +1,31 @@
+Sec 1.3 The Guanella Analysis
+
+Guanella’s investigation (ref 1) was directed toward developing
+a broadband transformer for matching the balanced output of a 100-W,
+push-pull, vacuum-tube amplifier to the unbalanced load of a coaxial
+cable. The objective was to match a balanced impedance of 960 Q to an
+unbalanced impedance of 60 Q (16:1) from 100 MHz to 200 MHz. His
+experimental data, with a 53-Q resistor as a load, showed a deviation
+of less than 10% from the theoretical value over this frequency range.
+
+Guanella accomplished this by incorporating four 240-Q. trans-
+mission lines in a series-parallel arrangement resulting in a high-imped-
+ance, 16:1 balun. His technique of essentially summing in-phase
+voltages at the high-impedance side of the transformer had been over-
+looked by the author (and probably by others) as is evidenced by the
+scarcity of information on his designs in the literature. This section
+presents the high-frequency analysis of his transformers and explains
+the advantages of his technique with transformers for high-power and
+high-impedance applications. Chapter 2, which covers the low-fre-
+quency analysis of his 1:4 transformer, will discuss some interesting and
+important configurations. Chapters 8 and 9 will present more informa-
+tion on Guanella’s transformers with ratios greater than 1:4.
+
+Fig 1-2—The Guanella 1:4 transformer.
+
+Fig 1-2 is a schematic of Guanella’s 1:4 transformer. The two
+transmission lines are in parallel on the low-impedance side and in
+series on the high-impedance side. With the single connection to ground,
+as shown in Fig 1-2, the transformer performs as a step-up balun with
+
+Analysis 1-5

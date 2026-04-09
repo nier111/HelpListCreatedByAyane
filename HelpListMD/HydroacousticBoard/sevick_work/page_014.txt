@@ -1,0 +1,42 @@
+B) Balun
+
+By connecting a ground to terminal 5, a negative potential gradi-
+ent -(V, — V2/ 2) is established from terminal 3 to 4 and -V2/2 from
+terminal 1 to 2. With a matched load, V; = V2 and the output is
+balanced to ground. When the reactance fails to be much greater than
+R,, conventional transformer current will flow and eventually, with
+decreasing frequency, the input impedance approaches R, / 2. When
+the load is “floating,” the currents in the two windings are always
+equal and opposite. At very low frequencies, where the reactance of the
+windings fails to be much greater than Ri, the isolation of the load is
+inadequate to prevent conventional transformer current (which could be
+an antenna current) when the load is elevated in potential. This bifilar
+balun, which was first proposed by Guanella (ref 1), is completely
+adequate for most 1:1 balun applications when the reactance of the
+windings (or beaded straight transmission lines) is much greater than
+RL.
+
+C) Delay Line
+
+By connecting the ground to terminal 2, the potential gradient
+across the bottom winding is zero. With a matched load, the gradient
+across the top winding is also zero. Under these conditions, the longi-
+tudinal reactance of the windings plays no role. The transmission line
+simply acts as a delay line and does not require winding about a core or
+the use of ferrite beads. This delay function plays a most important role
+in obtaining the highest frequency response in unbalanced-to-unbal-
+anced transformers.
+
+D) Boot-Strap
+
+Probably the most unlikely circuit schematic with the basic build-
+ing block is the one where +V, is also connected to terminal 2 (that is,
+terminal 3 is connected to terminal 2). By this type of connection, a
+positive potential gradient of V, is established across the bottom wind-
+ing and of +V>2 across the top winding. When the bottom of Ry is
+connected to ground, instead of to terminal 2, a voltage of (V; + V2)
+exists across its terminals. This “boot-strap” connection, in which the
+transmission line shares a part of the load, is the way Ruthroff (ref 9)
+obtained his 1:4 unbalanced-to-unbalanced transformer.
+
+1-4 Chapter 1

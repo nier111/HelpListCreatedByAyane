@@ -1,0 +1,27 @@
+have two transmission lines in a parallel-series connection, resulting in
+the addition of two in-phase voltages and hence much higher frequency
+capability. The problem with the Guanella transformer is providing
+sufficient isolation when operating as an unbalanced-to-unbalanced
+transformer. This is especially true when both transmission lines are
+wound on the same core. Although this yields the best low-frequency
+response when operating as a balun, the grounding of both the input and
+output terminals makes it impractical as an unun.
+
+As shown on Fig 6-2, this isolation can be obtained in two ways:
+(1) by connecting a 1:1 balun back-to-back with a 1:4 Guanella balun
+which has both transmission lines on the same core, and (2) by putting
+the two transmission lines on separate cores. In the latter case, only one
+magnetic core is really needed, since the bottom transmission line in
+Fig 6-2B has no longitudinal potential gradient. Windings 5-6 and 7-8
+only determine the low-frequency response. If these windings are the
+same as windings 1-2 and 3-4 in the Ruthroff 1:4 unun of Fig 6-1A, then
+the Guanella 1:4 unun will not only have the same low-frequency
+response, but also a much greater high-frequency response. By using
+coaxial cable widely spaced on a core (so as to minimize parasitics) or
+beaded, straight coaxial cable, the 1:4 unun transformers of Fig 6-2B
+should be capable of operating in the VHF and UHF bands.
+
+Fig 6-6—Three examples of the very wideband 12.5:50-Q Guanella unun
+transformers using the schematic of Fig 6-2(B).
+
+6-10 Chapter 6

@@ -1,0 +1,35 @@
+Chapter 5
+
+Transformer Parameters
+for High-Impedance
+Applications
+
+Sec5.1 Introduction
+
+hapter 4 dealt with transformer parameters for working at low-
+( impedance levels; transformers which are basically used to
+
+match the ubiquitous 50-Q cable to impedances considerably
+lower than 50 Q. The need, for the author, first arose when trying to
+match 50 Q to the resonant impedance of a short vertical of 12.5 Q. This
+required a coiled transmission line with a characteristic impedance of
+25 Q, which was easy to obtain on a rod, but not on a toroid. Various
+techniques for obtaining low-impedance transmission lines were pre-
+sented. These included low-impedance coaxial cables, striplines and
+trifilar combinations.
+
+This chapter deals with parameters for high-impedance applica-
+tions requiring coiled transmission lines with characteristic impedances
+of 50 Q and greater. As will be shown, it is much more difficult to design
+broadband transformers which can match 50-Q cable to impedances of
+200 Q and greater. This is especially true of the 1:4 Ruthroff transform-
+ers, since impedance ratios are obtained by combining fixed voltages
+and delayed voltages. Because of the phase differences, his transformers
+are sensitive to transmission line length. The 1:4 balun of Guanella has
+the advantage of not only combining voltages of equal delays (thus
+being somewhat insensitive to the length of the transmission line), but
+also of combining more than two voltages for even higher impedance
+ratios. This ability of matching into higher impedances is obtained with
+the same characteristic impedance as his 1:4 balun.
+
+Transformer Parameters for High-Impedance Applications 5-1

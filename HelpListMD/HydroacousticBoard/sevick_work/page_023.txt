@@ -1,0 +1,30 @@
+Fig 2-1—Low-frequency models of the Ruthroff 1:4 transformers: (A)
+unun and (B) balun.
+
+As with the conventional autotransformer, the low-frequency
+performance of the Ruthroff 1:4 unun can be determined from the
+reduced model shown in Fig 2-2. Here we have an ideal transformer,
+shown by the load, labeled Rg, shunted by the core magnetizing induc-
+tance, Ly.
+
+If a toroid is used for the core, the magnetizing inductance Ly is
+Ae(cm?)
+
+Lu =04nN | ig(em) }. 10° henrys (Eq 2-1)
+where
+
+Np = the number of primary turns
+
+Lo = the permeability of the core
+
+A. = the effective cross-sectional area of the core
+
+|. = the average magnetic path length in the core
+
+Eq 2-1 has some important features which should be pointed out
+here. By making the outside diameter of the toroid as small as is
+practical, while keeping the same cross-sectional area, a large improve-
+ment in bandwidth takes place at both the low- and high- frequency ends
+of the transformer. With smaller toroids, the length of the transmission
+
+2-2. Chapter 2

@@ -1,0 +1,27 @@
+Fig 2-4—Experimental transformers for comparing the low-frequency
+performance of the rod transformer versus the toroidal transformer. All
+are tightly wound with 15 Inches of no. 14 Formex® wire. The toroidal
+transformer on the right uses powdered-iron with a permeability of 10.
+The other two use ferrite cores with permeabilities of 125.
+
+give the same very high efficiencies of the toroid, but at the expense of
+poorer low-frequency response. Since toroids used in power applica-
+tions require ferrite permeabilities of only 100 to 300 for very efficient
+operation (see Chapter 11), the trade-off in using rods is not so severe.
+The low-frequency response is poorer only by a factor of 2 to 4. In order
+to establish a comparison between the rod and the toroid, three trans-
+formers were constructed with similar windings. Two transformers used
+toroids of different permeabilities and one used a rod of the same
+permeability as of one of the toroids. All were tightly wound with 15
+inches of no. 14 wire. From early measurements, this was supposed to
+give a characteristic impedance of 25 Q, which is considered to be
+optimum when matching 12.5 Q to 50 Q. The three transformers are
+shown in Fig 2- 4. The toroid on the left had 7 bifilar turns on Q1 ferrite,
+with a permeability of 125, an OD of 2.4 inches and a thickness of 4
+inch. The rod in the center had 7 bifilar turns on Q1 ferrite, a diameter
+of “inches and a length of 4 inches. The toroid on the right had 8 bifilar
+turns on powdered iron (Carbonyl E, Arnold), with a permeability of
+10, an OD of 2 inches and a thickness somewhat less than 4 inch, giving
+rise to one more turn.
+
+Low-Frequency Characterization 2-7

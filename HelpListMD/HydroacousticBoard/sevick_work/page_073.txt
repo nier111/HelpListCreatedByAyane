@@ -1,0 +1,40 @@
+All of the five rod transformers in Fig 6-3 were optimized for
+operation at the 12.5:50-Q level in the 1.5- to 30-MHz range. They have
+the following parameters:
+
+A) Upper left:
+%-inch diameter, 11 bifilar turns of no. 14 wire.
+
+B) Middle left:
+¥-inch diameter, 12 bifilar turns of no. 14 wire.
+
+C) Lower left:
+%-inch diameter, 14 bifilar turns of no. 14 wire.
+
+D) Upper right:
+‘cinch diameter, 16 bifilar turns of no. 16 wire.
+
+E) Lower right:
+Y-inch diameter, 20 bifilar turns of no. 16 wire.
+
+Toroidal transformers have the advantage of a closed magnetic
+path, and hence require fewer turns compared to rod versions in order
+to attain the desired reactance of the coiled transmission line. This
+shorter length of winding improves the high-frequency response of
+Ruthroff 1:4 transformers. But these transformers have the disadvantage
+of not being able to achieve a characteristic impedance of 25 Q with
+closely spaced bifilar turns, as can the rod transformers in Fig 6-3.
+Therefore, other types of transmission lines, such as low-impedance
+coaxial cable, stripline or floating-third-winding (see Chapter 4), have
+to be used in 1:4 transformers at the 12.5:50-Q level and lower. Since
+stripline is not available to most radio amateurs, transformers using it
+will not be treated in this chapter. Even though low-impedance coaxial
+cables are also not readily available, they can easily be fabricated, as is
+shown in Chapter 13. Coaxial cable and stripline have the advantage in
+handling higher power levels since the currents are not crowded be-
+tween adjacent turns as in wire transformers. Further, two or more layers
+of Scotch no. 92 tape are usually used as the dielectric, thus yielding
+breakdowns comparable to RG-8/U cable. Many of these coaxial cable
+transformers are truly in the 5-kW range.
+
+6-6 Chapter6

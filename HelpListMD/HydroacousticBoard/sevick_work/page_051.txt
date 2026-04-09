@@ -1,0 +1,40 @@
+wk
+Fs] t-0.0028"
+
+a
+v
+i
+.
+%
+E
+3
+i
+5
+
+T T
+316 “4
+
+WIDTH OF STRIPLINE, W (INCH)
+
+Fig 4-3—Measured values of the characteristic impedance, Zo, of
+striplines v width.
+
+To experimentally determine the optimum impedance levels for
+various widths of stripline, four transformers were constructed and
+measured at various impedance levels that bracketed the optimum level.
+The stripline transformers were constructed with widths of %, ie, %
+and % inch. The insulation was Scotch no. 92 tape—a polyimide
+2.8 mils thick with excellent electrical, heat-resistant and dielectric
+properties. The cores were TDK KS ferrite with an OD of 1% inches.
+Fig 4-1 is a photograph of the four transformers used in the experiment.
+Fig 4-2 shows the loss-v-frequency curves taken at their optimum
+levels, that is, impedance levels where the high-frequency response is
+maximum. Also included in Fig 4-2 is a plot of data for a three-conductor
+stripline with the third line floating; this will be described further in Sec
+4.4. It is interesting to note that the %-inch stripline and the %4-inch
+three -conductor stripline have their best high-frequency performance
+at the low-impedance level of 16:4 Q. It can be seen from Fig 4-2 that
+a stripline of about %4 inch in width should be optimum for 50:12.5-Q.
+operation.
+
+4-4 Chapter 4

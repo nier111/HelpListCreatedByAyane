@@ -1,0 +1,46 @@
+a floating load. With the ground connected to terminal 2 instead of the
+1,5 terminal, it performs as a step-down balun with a floating load.
+
+The high-frequency performance is determined, in large measure,
+by the optimization of the characteristic impedance of the transmission
+lines. From the symmetry of the schematic, it is quite evident that each
+transmission line sees one-half of the load. Therefore, for “flat” lines,
+and hence maximum high-frequency response, the optimum value of
+the characteristic impedance is Zp = R,, / 2. Without any other parasitics
+which are not absorbed into the characteristic impedance, this trans-
+former (as Guanella stated in his paper) yields a “frequency independent
+transformation.” Straight beaded lines, or having sufficient separation
+between bifilar windings on a core, result in near-ideal transformers.
+
+With two transmission lines, as in Fig 1-2, the input impedance
+at the low side is
+
+Z ( Z/2+jZotan Bl
+Zin= > ears /Sap] (Eq 1-1)
+where
+Zo = the characteristic impedance
+Z, = the load impedance
+| = the length of the transmission line
+B =2 T/A, where A = the effective wavelength in the
+transmission line.
+
+With the optimum value of Zp = R,/2 for a resistive load, Eq 1-1
+reduces to
+
+Zin = Ri/4 (Eq 1-2)
+
+With more than two transmission lines, it can be shown that Eq 1-2
+becomes
+
+Zin = Ry / 7 (Eq 1-3)
+
+where n is the number of transmission lines. Conversely, it can be seen
+by inspection that when looking in at the high-impedance side,
+
+Zin = PR, (Eq 1-4)
+
+where R, would be the low impedance on the left side in Fig 1-2.
+By the placement of two ground connections, one can obtain other
+transformers such as ununs (unbalanced-to-unbalanced), phase-
+
+1-6 Chapter 1
