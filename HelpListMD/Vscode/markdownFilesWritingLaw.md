@@ -85,5 +85,32 @@ Openclaw -->> LLM
 
 ---
 
+## 输出 pdf 前的格式预处理：
+
+```html
+<style>
+pre code {
+  white-space: pre-wrap !important; /*防止不换行*/
+  word-break: break-all !important; /*防止内容溢出*/
+  overflow-wrap: anywhere !important; 
+}
+
+/* img {
+  max-width: 50% !important;
+  height: auto !important;
+  display: block;
+}
+
+p img {
+  max-width: 50% !important;
+  height: auto !important;
+} */
+
+.markdown-preview img {
+  max-width: 50% !important;
+  height: auto !important;
+}
+</style>
+```
 
 

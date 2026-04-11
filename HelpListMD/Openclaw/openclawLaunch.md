@@ -1,11 +1,11 @@
 <style>
 pre code {
-  white-space: pre-wrap !important;
-  word-break: break-all !important;
-  overflow-wrap: anywhere !important;
+  white-space: pre-wrap !important; /*防止不换行*/
+  word-break: break-all !important; /*防止内容溢出*/
+  overflow-wrap: anywhere !important; 
 }
 
-img {
+/* img {
   max-width: 50% !important;
   height: auto !important;
   display: block;
@@ -14,7 +14,7 @@ img {
 p img {
   max-width: 50% !important;
   height: auto !important;
-}
+} */
 
 .markdown-preview img {
   max-width: 50% !important;
